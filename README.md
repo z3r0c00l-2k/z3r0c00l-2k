@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![z3r0c00l-2k's github stats](https://github-readme-stats.vercel.app/api?username=z3r0c00l-2k&count_private=true)
+
+
 <!--
 **z3r0c00l-2k/z3r0c00l-2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
